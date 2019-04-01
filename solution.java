@@ -13,6 +13,15 @@ class Difference {
     this.elements = numArray;
   }
 
+  public int computeDifference() {
+
+    for (int index = 0; index < this.elements.length; index++) {
+
+    }
+
+    return maximumDifference;
+  }
+
 }
 /// ignore below this line ///
 
