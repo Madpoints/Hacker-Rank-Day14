@@ -9,6 +9,9 @@ class Difference {
   public int maximumDifference;
 
   /// ignore above this line ///
+  public Difference(int[] numArray) {
+    this.elements = numArray;
+  }
 
 }
 /// ignore below this line ///
