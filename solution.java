@@ -15,7 +15,9 @@ class Difference {
 
   public int computeDifference() {
 
-    for (int index = 0; index < this.elements.length; index++) {
+    int tempDifference;
+
+    for (int element : elements) {
 
     }
 
